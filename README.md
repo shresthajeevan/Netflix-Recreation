@@ -7,7 +7,7 @@ Netflix Recreation
 ✅ Detailed setup instructions (including all commands)  
 ✅ Firebase & MongoDB configuration  
 ✅ Project structure  
-✅ License & contact info  
+✅ Contact info  
 
 ```markdown
 # 📺 Netflix Recreation (Full Stack App)
@@ -17,16 +17,17 @@ A complete **Netflix Recreation** built with **React**, **Firebase**, **Express*
 ## 📸 Screenshots
 
 ### 🔐 Login Page  
-![Login](/screenshots/login.png)
+![Login](https://raw.githubusercontent.com/shresthajeevan/Netflix-clone/main/screenshots/login.png)
 
 ### 📝 Signup Page  
-![Signup](/screenshots/signup.png)
+![Signup](https://raw.githubusercontent.com/shresthajeevan/Netflix-clone/main/screenshots/signup.png)
 
 ### 🏠 Home Page  
-![Home](/screenshots/home.png)
+![Home](https://raw.githubusercontent.com/shresthajeevan/Netflix-clone/main/screenshots/home.png)
 
-### 🔥 Trending Movies Page  
-![Trending](/screenshots/trending.png)
+### 🔥 Trending Movies  
+![Trending](https://raw.githubusercontent.com/shresthajeevan/Netflix-clone/main/screenshots/trending.png)
+
 
 
 ## 🚀 Features
