@@ -10,9 +10,9 @@ Netflix Recreation
 ✅ License & contact info  
 
 ```markdown
-# 📺 Netflix Clone (Full Stack App)
+# 📺 Netflix Recreation (Full Stack App)
 
-A complete **Netflix Clone** built with **React**, **Firebase**, **Express**, and **MongoDB**. Users can register, log in, browse movies, and save their favorite ones to their "Liked List".
+A complete **Netflix Recreation** built with **React**, **Firebase**, **Express**, and **MongoDB**. Users can register, log in, browse movies, and save their favorite ones to their "Liked List".
 
 ## 📸 Screenshots
 
