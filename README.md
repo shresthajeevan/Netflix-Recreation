@@ -17,16 +17,16 @@ A complete **Netflix Recreation** built with **React**, **Firebase**, **Express*
 ## 📸 Screenshots
 
 ### 🔐 Login Page  
-![Login](https://raw.githubusercontent.com/shresthajeevan/Netflix-Recreation/main/screenshots/login.png)
+![Login](https://github.com/shresthajeevan/Netflix-Recreation/blob/main/screenshots/login.png?raw=true)
 
 ### 📝 Signup Page  
-![Signup](https://raw.githubusercontent.com/shresthajeevan/Netflix-Recreation/main/screenshots/signup.png)
+![Signup](https://github.com/shresthajeevan/Netflix-Recreation/blob/main/screenshots/signup.png?raw=true)
 
 ### 🏠 Home Page  
-![Home](https://raw.githubusercontent.com/shresthajeevan/Netflix-Recreation/main/screenshots/home.png)
+![Home](https://github.com/shresthajeevan/Netflix-Recreation/blob/main/screenshots/home.png?raw=true)
 
 ### 🔥 Trending Movies  
-![Trending](https://raw.githubusercontent.com/shresthajeevan/Netflix-Recreation/main/screenshots/trending.png)
+![Trending](https://github.com/shresthajeevan/Netflix-Recreation/blob/main/screenshots/trending.png?raw=true)
 
 
 
