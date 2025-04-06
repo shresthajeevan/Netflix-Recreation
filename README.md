@@ -17,16 +17,16 @@ A complete **Netflix Recreation** built with **React**, **Firebase**, **Express*
 ## 📸 Screenshots
 
 ### 🔐 Login Page  
-![Login](screenshots/login.png)
+![Login](/screenshots/login.png)
 
 ### 📝 Signup Page  
-![Signup](screenshots/signup.png)
+![Signup](/screenshots/signup.png)
 
 ### 🏠 Home Page  
-![Home](screenshots/home.png)
+![Home](/screenshots/home.png)
 
 ### 🔥 Trending Movies Page  
-![Trending](screenshots/trending.png)
+![Trending](/screenshots/trending.png)
 
 
 ## 🚀 Features
