@@ -17,16 +17,16 @@ A complete **Netflix Recreation** built with **React**, **Firebase**, **Express*
 ## 📸 Screenshots
 
 ### 🔐 Login Page  
-![Login](https://raw.githubusercontent.com/shresthajeevan/Netflix-clone/main/screenshots/login.png)
+![Login](https://raw.githubusercontent.com/shresthajeevan/Netflix-Recreation/main/screenshots/login.png)
 
 ### 📝 Signup Page  
-![Signup](https://raw.githubusercontent.com/shresthajeevan/Netflix-clone/main/screenshots/signup.png)
+![Signup](https://raw.githubusercontent.com/shresthajeevan/Netflix-Recreation/main/screenshots/signup.png)
 
 ### 🏠 Home Page  
-![Home](https://raw.githubusercontent.com/shresthajeevan/Netflix-clone/main/screenshots/home.png)
+![Home](https://raw.githubusercontent.com/shresthajeevan/Netflix-Recreation/main/screenshots/home.png)
 
 ### 🔥 Trending Movies  
-![Trending](https://raw.githubusercontent.com/shresthajeevan/Netflix-clone/main/screenshots/trending.png)
+![Trending](https://raw.githubusercontent.com/shresthajeevan/Netflix-Recreation/main/screenshots/trending.png)
 
 
 
@@ -51,11 +51,11 @@ A complete **Netflix Recreation** built with **React**, **Firebase**, **Express*
 
 > 💡 Ensure you have **Node.js**, **npm**, and **MongoDB** installed locally.
 
-### 🔁 Step 1: Clone the Repository
+### 🔁 Step 1: Recreation the Repository
 
 ```bash
-git clone https://github.com/shresthajeevan/Netflix-clone.git
-cd Netflix-clone
+git Recreation https://github.com/shresthajeevan/Netflix-Recreation.git
+cd Netflix-Recreation
 ```
 
 
