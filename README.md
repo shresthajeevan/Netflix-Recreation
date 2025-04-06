@@ -17,7 +17,7 @@ A complete **Netflix Recreation** built with **React**, **Firebase**, **Express*
 ## 📸 Screenshots
 
 ### 🔐 Login Page  
-![Login](https://github.com/shresthajeevan/Netflix-Recreation/blob/main/screenshots/login.png?raw=true)
+![Login](https://raw.githubusercontent.com/shresthajeevan/Netflix-Recreation/main/screenshots/login.png)
 
 ### 📝 Signup Page  
 ![Signup](https://github.com/shresthajeevan/Netflix-Recreation/blob/main/screenshots/signup.png?raw=true)
